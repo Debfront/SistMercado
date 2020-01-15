@@ -11,6 +11,7 @@ $details = infus($ipaddress);
 //echo "Seu ip:   ".$details->ip."<br>"; 
 //echo "Sua cidade: ".$details->city."<br>";
 //echo "Sua região é: ".$details->region."<br>";
+//atributos
 $ip= $details->ip;
 //echo $ip;
 
