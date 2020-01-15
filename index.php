@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<form>
+<form style="width:400px";>
   <div class="form-group">
     <label for="exampleInputEmail1">Email</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -20,8 +20,10 @@
     <label for="exampleInputPassword1">Senha</label>
     <input type="password" class="form-control" id="exampleInputPassword1">
   </div>
- </div>
+ </div >
+ <div style="text-align:right;">
   <button type="submit" class="btn btn-warning">Acesse</button>
+  </div>
 </form>
 
 
