@@ -3,17 +3,21 @@ body {
     padding: 0;
     background-color: #17a2b8;
     height: 100vh;
+    background: #9C9C9C;
+
   }
-  #login .container #login-row #login-column #login-box {
-    margin-top: 120px;
+  #login.container #login-row #login-column #login-box {
+    margin-top: 600px;
     max-width: 600px;
     height: 320px;
     border: 1px solid #9C9C9C;
     background-color: #EAEAEA;
   }
-  #login .container #login-row #login-column #login-box #login-form {
+  #login.container #login-row #login-column #login-box #login-form {
     padding: 20px;
   }
-  #login .container #login-row #login-column #login-box #login-form #register-link {
+  #login.container #login-row #login-column #login-box #login-form #register-link {
     margin-top: -85px;
   }
+ 
+  
