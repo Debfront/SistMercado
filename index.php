@@ -20,11 +20,8 @@
     <label for="exampleInputPassword1">Senha</label>
     <input type="password" class="form-control" id="exampleInputPassword1">
   </div>
-  <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <label class="form-check-label" for="exampleCheck1">Check me out</label>
-  </div>
-  <button type="submit" class="btn btn-warning">Submit</button>
+ </div>
+  <button type="submit" class="btn btn-warning">Acesse</button>
 </form>
 
 
